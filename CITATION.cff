@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/rank-window"
+doi: "10.5281/zenodo.22994835"
 preferred-citation:
   type: article
   title: "A finite rank window cannot show that a neural population code satisfies the eigenspectrum smoothness bound"
