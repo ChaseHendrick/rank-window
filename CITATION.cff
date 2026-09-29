@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these programs or data, please cite the paper."
-title: "A finite rank window cannot show that a neural population code satisfies the eigenspectrum smoothness bound"
+title: "A Finite Rank Window Cannot Show That a Neural Population Code Satisfies the Eigenspectrum Smoothness Bound"
 type: software
 authors:
   - given-names: "Chase"
@@ -12,10 +12,12 @@ repository-code: "https://github.com/ChaseHendrick/rank-window"
 doi: "10.5281/zenodo.23028535"
 preferred-citation:
   type: article
-  title: "A finite rank window cannot show that a neural population code satisfies the eigenspectrum smoothness bound"
+  title: "A Finite Rank Window Cannot Show That a Neural Population Code Satisfies the Eigenspectrum Smoothness Bound"
   authors:
     - given-names: "Chase"
       family-names: "Hendrick"
       affiliation: "Independent Researcher"
       orcid: "https://orcid.org/0009-0002-9754-6087"
   year: 2026
+  url: "https://github.com/ChaseHendrick/rank-window"
+  doi: "10.5281/zenodo.23028535"
